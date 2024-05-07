@@ -1,0 +1,60 @@
+[33mcommit 5ab010035021f8496af7ef564fc20801c172f620[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: faisamir95 <36462446+faisamir95@users.noreply.github.com>
+Date:   Tue May 7 11:31:59 2024 +0800
+
+    Create guifile
+
+[33mcommit 58346e909c8f10dd7d0cfd708b81f7748cd5858a[m
+Merge: 71ad6a4 a2934d6
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 02:11:54 2024 +0000
+
+    resolved conflict for file1
+
+[33mcommit 71ad6a45a77f002168048bd67019c64136233b16[m
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 02:06:37 2024 +0000
+
+    Fixed security in file1 main branch
+
+[33mcommit 2a467605ee9f5c1075b379fd90eccf5b65f0bba3[m
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 02:06:20 2024 +0000
+
+    added file5 in main branch
+
+[33mcommit a2934d63641a55a61538732ba4eee195c6dda7e7[m[33m ([m[1;32mdev[m[33m)[m
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 02:05:22 2024 +0000
+
+    added function1 in file1 in dev
+
+[33mcommit 4a0c03907c66bd5574d35631d5c82ba00d4ecb03[m
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 02:04:09 2024 +0000
+
+    added feature1
+
+[33mcommit a39cbe0f869a9131aa6fa454e75060bcbb6a5c62[m
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 01:49:59 2024 +0000
+
+    added file4
+
+[33mcommit 060e971cd8b83d6a5e999d580500afefba29314f[m
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 01:48:31 2024 +0000
+
+    added file3 in dev branch
+
+[33mcommit 3e26e6ca7f9af076f790cb315d9ca980a6fd8f83[m[33m ([m[1;32mtest[m[33m)[m
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 01:44:12 2024 +0000
+
+    added file2 for testing
+
+[33mcommit a51b7dcc1c85d4fe851ed530b49b4501a00dc433[m
+Author: Faisal <admin.faisal@gmail.com>
+Date:   Tue May 7 01:42:08 2024 +0000
+
+    added file1 for testing
